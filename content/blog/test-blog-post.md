@@ -1,7 +1,7 @@
 +++
 date = 2021-08-08T22:00:00Z
 description = ""
-image = "/images/portfolio/item-2.png"
+image = "/images/jay-elephant-logo-150x150.png"
 title = "Test Blog Post"
 
 +++
