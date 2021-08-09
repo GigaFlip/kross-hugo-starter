@@ -1,7 +1,6 @@
 +++
 date = 2021-08-08T22:00:00Z
 description = ""
-draft = true
 image = "/images/portfolio/item-2.png"
 title = "Test Blog Post"
 
