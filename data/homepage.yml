@@ -1,90 +1,97 @@
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : " Car & Loan <br> Quick and Easy!"
 
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "👉 auto na kredit-brzo I jednostavno ❗️❗️ <br>
+👉uz jedan dolazak do novoga automobila, bez obzira otkud iz njemačke se javljate moguća je online provjera prolaznosti kredita❗️ <br>
+👉eu-viza <br>
+👉minimalni uvjeti <br>
+👉-moguće financiranje, bez učešća I završne rate,bez stalnoga ugovora <br>
+👉garancija-tüv-de auta-servisna knjiga-na svim automobilima napravljen mali servis I spreman za jedan servisni interval ❗️ <br>
+👉jamčimo visoku profesionalnost I stručnost <br>
+👉dodaj gas I nazovi nas ❗️❗️ <br>"
   button:
     enable : true
-    label : "know more"
+    label : "Learn More"
     URL : "about"
 
-skill:
-  enable : true
-  title : "Skills"
-  item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
+# skill:
+#   enable : true
+#   title : "Skills"
+#   item:
+#     - title : "Web Design"
+#       progress : "90%"
+#       color : "#fdb157"
 
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
+#     - title : "Logo Design"
+#       progress : "60%"
+#       color : "#9473e6"
 
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
+#     - title : "After Effects"
+#       progress : "80%"
+#       color : "#bdecf6"
 
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
+#     - title : "Web App"
+#       progress : "70%"
+#       color : "#ffbcaa"
 
-experience:
-  enable : true
-  title : "Experience"
-  item:
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+# experience:
+#   enable : true
+#   title : "Experience"
+#   item:
+#     - logo : "images/experience/icon-1.png"
+#       title : "Junior UX Designer"
+#       company : "WEBEX"
+#       duration : "Jan 2007 - Feb 2009"
 
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+#     - logo : "images/experience/icon-2.png"
+#       title : "UX & UI Designer"
+#       company : "AUGMEDIX"
+#       duration : "Mar 2009 - Aug 2014"
 
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+#     - logo : "images/experience/icon-1.png"
+#       title : "Senior UI Designer"
+#       company : "THEMEFISHER"
+#       duration : "Sep 2014 - Present"
 
 # education
-education:
-  enable : true
-  title : "Education"
-  item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+# education:
+#   enable : true
+#   title : "Education"
+#   item:
+#     - title : "Marters in UX Design"
+#       year : "2006"
+#       academy : "Masassusets Institute of Technology"
 
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+#     - title : "Honours in Fine Arts"
+#       year : "2004"
+#       academy : "Harvard University"
 
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+#     - title : "Higher Secondary Certificat"
+#       year : "2000"
+#       academy : "Cardiff School"
 
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+#     - title : "Secondary School Certificate"
+#       year : "1998"
+#       academy : "Cardiff School"
 
 # service
 service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Car Purchase"
       icon : "ti-palette"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Car Loan"
       icon : "ti-vector"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Insurance"
       icon : "ti-panel"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
@@ -93,7 +100,7 @@ service:
 portfolio:
   enable : true
   title : "Portfolio"
-  item_show : 5
+  item_show : 6
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
